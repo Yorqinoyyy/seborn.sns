@@ -33,5 +33,5 @@ Keyingi bosqichlarda quyidagilarni ham qo‘shib boraman:
 ## ⚙️ Foydalanish  
 
 `bash
-git clone https://github.com/yorqinoyyy/seaborn.sns
+git clone https://github.com/yorqinoyyy/seborn.sns
 cd Seaborn
