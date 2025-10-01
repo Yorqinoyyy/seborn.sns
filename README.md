@@ -19,13 +19,14 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 5. histplot – histogramma chizish  
 6. kdeplot – zichlik funksiyalarini ko‘rsatish  
 7. ecdfplot – empirik taqsimot funksiyasi
+8. rugplot – alohida kuzatuvlarni belgilash
 
+  
 ## 📌 Reja  
 
 Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:  
 
-### 📊 Ta’qsimot grafiklari  
-- rugplot – alohida kuzatuvlarni belgilash  
+### 📊 Ta’qsimot grafiklari   
 - distplot *(eskirgan, lekin tushuntiriladi)*  
 
 ### 📑 Kategoriyaga asoslangan grafiklar
