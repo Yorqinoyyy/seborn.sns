@@ -16,18 +16,16 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 3. lineplot – vaqt yoki tartiblangan qiymatlar bo‘yicha chiziqli grafik.  
 4. displot – ma’lumotlarning taqsimotini ko‘rsatish (gistogramma, KDE va boshqalar).  
 5. histplot – ma’lumotlarning histogrammasini chizish.
-
+6. kdeplot – zichlik funksiyalarini ko‘rsatish.
 ## 📌 Reja  
 
 Keyingi bosqichlarda quyidagilarni ham qo‘shib boraman:  
-
-- kdeplot – zichlik funksiyalarini ko‘rsatish.    
+    
 - boxplot – median va kvartillar orqali ma’lumotlarni tahlil qilish.  
 - violinplot – ma’lumotlar taqsimoti + zichlikni ko‘rsatish.  
 - heatmap – matritsa shaklidagi ma’lumotlarni vizualizatsiya qilish.  
 - pairplot – bir nechta o‘zgaruvchilarni juftliklarda solishtirish.  
 
----
 
 ## ⚙️ Foydalanish  
 
