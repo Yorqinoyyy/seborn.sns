@@ -15,14 +15,13 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 2. scatterplot – nuqtali diagramma, ikki o‘zgaruvchi orasidagi bog‘liqlikni ko‘rsatadi.  
 3. lineplot – vaqt yoki tartiblangan qiymatlar bo‘yicha chiziqli grafik.  
 4. displot – ma’lumotlarning taqsimotini ko‘rsatish (gistogramma, KDE va boshqalar).  
-
+5. histplot – ma’lumotlarning histogrammasini chizish.
 
 ## 📌 Reja  
 
 Keyingi bosqichlarda quyidagilarni ham qo‘shib boraman:  
 
-- kdeplot – zichlik funksiyalarini ko‘rsatish.  
-- histplot – ma’lumotlarning histogrammasini chizish.  
+- kdeplot – zichlik funksiyalarini ko‘rsatish.    
 - boxplot – median va kvartillar orqali ma’lumotlarni tahlil qilish.  
 - violinplot – ma’lumotlar taqsimoti + zichlikni ko‘rsatish.  
 - heatmap – matritsa shaklidagi ma’lumotlarni vizualizatsiya qilish.  
