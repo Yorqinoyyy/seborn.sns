@@ -1,12 +1,13 @@
 # 📊 Seaborn Kutubxonasi — Amaliy Misollar  
 
-Bu repozitoriyda Seaborn kutubxonasidan foydalanib turli grafikalar va vizualizatsiya usullari bo‘yicha amaliy misollar jamlangan.  
+Ushbu repozitoriyda Seaborn kutubxonasi yordamida turli grafikalar va vizualizatsiya usullari bo‘yicha amaliy misollar jamlangan.  
 Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boraman.  
+
 
 ## 📂 Tuzilishi  
 
 - malumotlar/ → ishlatilgan datasetlar (CSV, Excel va boshqalar)  
-- kodlar/ → Seaborn bilan yozilgan Python kodlari  
+- kodlar/ → Seaborn bilan yozilgan Python kodlari va izohlar  
 
 
 ## 📈 Hozirgacha o‘rganilganlar  
@@ -15,20 +16,48 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 2. scatterplot – nuqtali diagramma, ikki o‘zgaruvchi orasidagi bog‘liqlikni ko‘rsatadi.  
 3. lineplot – vaqt yoki tartiblangan qiymatlar bo‘yicha chiziqli grafik.  
 4. displot – ma’lumotlarning taqsimotini ko‘rsatish (gistogramma, KDE va boshqalar).  
-5. histplot – ma’lumotlarning histogrammasini chizish.
-6. kdeplot – zichlik funksiyalarini ko‘rsatish.
+5. histplot – histogramma chizish  
+6. kdeplot – zichlik funksiyalarini ko‘rsatish  
+7. ecdfplot – empirik taqsimot funksiyasi
+
 ## 📌 Reja  
 
-Keyingi bosqichlarda quyidagilarni ham qo‘shib boraman:  
-    
-- boxplot – median va kvartillar orqali ma’lumotlarni tahlil qilish.  
-- violinplot – ma’lumotlar taqsimoti + zichlikni ko‘rsatish.  
-- heatmap – matritsa shaklidagi ma’lumotlarni vizualizatsiya qilish.  
-- pairplot – bir nechta o‘zgaruvchilarni juftliklarda solishtirish.  
+Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:  
+
+### 📊 Ta’qsimot grafiklari  
+- rugplot – alohida kuzatuvlarni belgilash  
+- distplot *(eskirgan, lekin tushuntiriladi)*  
+
+### 📑 Kategoriyaga asoslangan grafiklar
+- catplot  
+- stripplot  
+- swarmplot  
+- boxplot  
+- violinplot  
+- boxenplot  
+- pointplot  
+- barplot  
+- countplot  
+
+### 📉 Regression va bog‘liqlik grafiklari
+- lmplot  
+- regplot  
+- residplot  
+
+### 🔥 Matritsa asosida vizualizatsiyalar
+- heatmap  
+- clustermap  
 
 
 ## ⚙️ Foydalanish  
 
 `bash
-git clone https://github.com/yorqinoyyy/seborn.sns
+git clone https://github.com/yorqinoyyy/Seborn.sns
 cd Seaborn
+
+
+
+👤 Muallif
+
+Yorqinoy Safarova
+📌 Har kuni yangi grafiklarni qo‘shib boraman 🚀
