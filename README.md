@@ -1,16 +1,37 @@
-# 📊 Seaborn Data Visualization
+# 📊 Seaborn Kutubxonasi — Amaliy Misollar  
 
-Bu repozitoriyada Python Seaborn kutubxonasi yordamida turli xil ma’lumotlarni vizualizatsiya qilish bo‘yicha kodlar jamlangan.  
-Seaborn – matplotlib asosida qurilgan, statistik grafiklarni chiroyli va qulay tarzda chizish imkonini beruvchi kutubxona.
+Bu repozitoriyda Seaborn kutubxonasidan foydalanib turli grafikalar va vizualizatsiya usullari bo‘yicha amaliy misollar jamlangan.  
+Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boraman.  
 
-## 🗂️ Tarkib
-- barplot_example.py – ustunli diagramma (bar plot) namunasi  
-- lineplot_example.py – chiziqli diagramma (line plot) namunasi  
-- heatmap_example.py – issiqlik xaritasi (heatmap) namunasi  
-- pairplot_example.py – juftlik diagrammalari (pair plot)  
-- Boshqa kichik mashqlar va kodlar
+## 📂 Tuzilishi  
 
-## 🚀 O‘rnatish
-Seabornni quyidagi buyruq bilan o‘rnatish mumkin:
+- malumotlar/ → ishlatilgan datasetlar (CSV, Excel va boshqalar)  
+- kodlar/ → Seaborn bilan yozilgan Python kodlari  
+
+
+## 📈 Hozirgacha o‘rganilganlar  
+
+1. relplot – bir nechta o‘zgaruvchilarni solishtirish uchun asosiy grafik.  
+2. scatterplot – nuqtali diagramma, ikki o‘zgaruvchi orasidagi bog‘liqlikni ko‘rsatadi.  
+3. lineplot – vaqt yoki tartiblangan qiymatlar bo‘yicha chiziqli grafik.  
+4. displot – ma’lumotlarning taqsimotini ko‘rsatish (gistogramma, KDE va boshqalar).  
+
+
+## 📌 Reja  
+
+Keyingi bosqichlarda quyidagilarni ham qo‘shib boraman:  
+
+- kdeplot – zichlik funksiyalarini ko‘rsatish.  
+- histplot – ma’lumotlarning histogrammasini chizish.  
+- boxplot – median va kvartillar orqali ma’lumotlarni tahlil qilish.  
+- violinplot – ma’lumotlar taqsimoti + zichlikni ko‘rsatish.  
+- heatmap – matritsa shaklidagi ma’lumotlarni vizualizatsiya qilish.  
+- pairplot – bir nechta o‘zgaruvchilarni juftliklarda solishtirish.  
+
+---
+
+## ⚙️ Foydalanish  
+
 `bash
-pip install seaborn
+git clone https://github.com/yorqinoyyy/seborn.sns
+cd Seaborn
