@@ -20,6 +20,7 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 6. kdeplot – zichlik funksiyalarini ko‘rsatish  
 7. ecdfplot – empirik taqsimot funksiyasi
 8. rugplot – alohida kuzatuvlarni belgilash
+9. catplot
 
   
 ## 📌 Reja  
@@ -27,10 +28,9 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:  
 
 ### 📊 Ta’qsimot grafiklari   
-- distplot *(eskirgan, lekin tushuntiriladi)*  
+Barchasi bajarildi:
 
-### 📑 Kategoriyaga asoslangan grafiklar
-- catplot  
+### 📑 Kategoriyaga asoslangan grafiklar 
 - stripplot  
 - swarmplot  
 - boxplot  
