@@ -23,7 +23,8 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 9. catplot
 10. stripplot
 11. swarmplot
-12. boxplot  
+12. boxplot
+13. violinplot  
 
   
 ## 📌 Reja  
@@ -33,8 +34,7 @@ Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:
 ### 📊 Ta’qsimot grafiklari   
 Barchasi bajarildi:
 
-### 📑 Kategoriyaga asoslangan grafiklar 
-- violinplot  
+### 📑 Kategoriyaga asoslangan grafiklar  
 - boxenplot  
 - pointplot  
 - barplot  
