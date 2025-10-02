@@ -21,6 +21,7 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 7. ecdfplot – empirik taqsimot funksiyasi
 8. rugplot – alohida kuzatuvlarni belgilash
 9. catplot
+10. stripplot  
 
   
 ## 📌 Reja  
@@ -31,7 +32,6 @@ Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:
 Barchasi bajarildi:
 
 ### 📑 Kategoriyaga asoslangan grafiklar 
-- stripplot  
 - swarmplot  
 - boxplot  
 - violinplot  
