@@ -24,7 +24,8 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 10. stripplot
 11. swarmplot
 12. boxplot
-13. violinplot  
+13. violinplot
+14. boxenplot  
 
   
 ## 📌 Reja  
@@ -32,10 +33,9 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:  
 
 ### 📊 Ta’qsimot grafiklari   
-Barchasi bajarildi:
+Barchasi o'rganildi:
 
-### 📑 Kategoriyaga asoslangan grafiklar  
-- boxenplot  
+### 📑 Kategoriyaga asoslangan grafiklar   
 - pointplot  
 - barplot  
 - countplot  
