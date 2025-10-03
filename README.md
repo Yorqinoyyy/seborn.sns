@@ -28,7 +28,8 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 14. boxenplot
 15. pointplot
 16. barplot
-17. countplot  
+17. countplot
+18. lmplot 
 
   
 ## 📌 Reja  
@@ -41,8 +42,7 @@ Barchasi o'rganildi:
 ### 📑 Kategoriyaga asoslangan grafiklar       
 Barchasi o'rganildi:
 
-### 📉 Regression va bog‘liqlik grafiklari
-- lmplot  
+### 📉 Regression va bog‘liqlik grafiklari 
 - regplot  
 - residplot  
 
