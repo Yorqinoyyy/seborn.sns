@@ -25,7 +25,8 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 11. swarmplot
 12. boxplot
 13. violinplot
-14. boxenplot  
+14. boxenplot
+15. pointplot 
 
   
 ## 📌 Reja  
@@ -35,8 +36,7 @@ Keyingi bosqichlarda quyidagilar ham qo‘shib boriladi:
 ### 📊 Ta’qsimot grafiklari   
 Barchasi o'rganildi:
 
-### 📑 Kategoriyaga asoslangan grafiklar   
-- pointplot  
+### 📑 Kategoriyaga asoslangan grafiklar     
 - barplot  
 - countplot  
 
