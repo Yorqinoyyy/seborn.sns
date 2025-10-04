@@ -49,8 +49,7 @@ Barchasi o'rganildi:
 Barchasi o'rganildi:
 
 ### 🔥 Matritsa asosida vizualizatsiyalar  
-- clustermap  
-
+Barchasi o'rganildi
 
 ## ⚙️ Foydalanish  
 
@@ -63,4 +62,3 @@ cd Seaborn
 👤 Muallif
 
 Yorqinoy Safarova
-📌 Har kuni yangi grafiklarni qo‘shib boraman 🚀
