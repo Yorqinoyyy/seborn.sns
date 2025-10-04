@@ -30,7 +30,8 @@ Men har kuni yangi mavzu o‘rganib, kodlar va tushuntirishlarni qo‘shib boram
 16. barplot
 17. countplot
 18. lmplot
-19. regplot 
+19. regplot
+20. residplot
 
   
 ## 📌 Reja  
@@ -44,7 +45,7 @@ Barchasi o'rganildi:
 Barchasi o'rganildi:
 
 ### 📉 Regression va bog‘liqlik grafiklari  
-- residplot  
+Barchasi o'rganildi:
 
 ### 🔥 Matritsa asosida vizualizatsiyalar
 - heatmap  
